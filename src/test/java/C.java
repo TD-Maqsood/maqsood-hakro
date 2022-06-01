@@ -28,6 +28,9 @@ public class C {
                 System.out.println("Server: " + message);
 
 
+                System.out.println("Qiang");
+
+
                 if (message.equals("Congratulations! you won the match.")) {
                     break;
 
